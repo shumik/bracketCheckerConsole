@@ -7,4 +7,6 @@ usage
     
     chmod +x bin/console
     
+    composer update
+    
     bin/console check file_with_brackets
